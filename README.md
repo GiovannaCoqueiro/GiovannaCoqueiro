@@ -4,11 +4,11 @@
 
 ---
 
-Motivated software engineering student with a background in electronics seeking a challenging position in the technology industry. Passionate about creating innovative software solutions and leveraging gaming experience to enhance user experiences. Eager to contribute technical skills, problem-solving abilities, and strong work ethic to a dynamic organization.
+Software Engineering student, dedicated to expanding my knowledge and seeking opportunities in the area. Practitioner of continuous learning, eager to contribute with commitment in challenging and collaborative projects.
 
-In addition to completing 42 Piscine, I have also studied the CS50, a Harvard course of introdution to computer science where I could understand better how things work underneath the code, and also have a first glance at Python, SQL, HTML, CSS and JavaScript.
+My academic journey has helped me with programming languages and development methodologies, enabling me to face real-world challenges with confidence. I enjoy solving problems and the process of turning ideas into real, practical things.
 
-I'm passionate about technology and always looking for new ways to expand my knowledge and skills!
+During my free time, I like to create games. This creative outlet allows me to refine my technical skills and learn project management.
 
 - 😄 Pronouns: she/her
 - 🐱 One cat
@@ -17,13 +17,14 @@ I'm passionate about technology and always looking for new ways to expand my kno
 - 🎮 Videogames
 - 💬 Ask me about anything, I really like talking and discovering new things I've never heard before
 - ⚡ Fun fact: My cat's name, Viper, was chosen because her eyes reminds me of the eyes of a Valorant agent with the same name
-- 📫 How to reach me: giovannacoqueirolopes@gmail.com
-
----
-
-#### Social Media
+- 📫 How to reach me:
+- [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:giovannacoqueirolopes@gmail.com)
 - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannacoqueiro/)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giocoqueiro/)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giovannacoqueiro&theme=neon)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=giovannacoqueiro&theme=neon&layout=compact)
 
 ---
 
@@ -37,3 +38,5 @@ I'm passionate about technology and always looking for new ways to expand my kno
 - [ft_printf](https://github.com/GiovannaCoqueiro/42cursus-printf)
 - born2beroot (the goal is to implement a Linux SO in a Virtual Machine, no code)
 - [so_long](https://github.com/GiovannaCoqueiro/42cursus-so-long)
+- [pipex](https://github.com/GiovannaCoqueiro/42cursus-pipex)
+- [push_swap](https://github.com/GiovannaCoqueiro/42cursus-push-swap)

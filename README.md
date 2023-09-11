@@ -30,17 +30,12 @@ During my free time, I like to create games. This creative outlet allows me to r
 ### Piscine:
 - [Piscine](https://github.com/GiovannaCoqueiro/42-Piscine)
 
-![phase_onee](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/16793561-9d37-4c6c-add1-13e7c8373abf)
-
 ### Phase 1:
-- [libft](https://github.com/GiovannaCoqueiro/42cursus-libft)
-- [get_next_line](https://github.com/GiovannaCoqueiro/42cursus-get-next-line)
-- [ft_printf](https://github.com/GiovannaCoqueiro/42cursus-printf)
-- born2beroot (the goal is to implement a Linux SO in a Virtual Machine, no code)
-- [so_long](https://github.com/GiovannaCoqueiro/42cursus-so-long)
-- [pipex](https://github.com/GiovannaCoqueiro/42cursus-pipex)
+![phase_one](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/16793561-9d37-4c6c-add1-13e7c8373abf)
 
-![phase_twon](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/15aa413f-68d8-4a0c-925a-4db57edd556e)
+[![libft](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/9c9efc10-3297-4928-85d9-bccae37b8712)](https://github.com/GiovannaCoqueiro/42cursus-libft) [![get_next_line](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/b0c25ffb-3528-4c3d-ab8a-f38a169773f7)](https://github.com/GiovannaCoqueiro/42cursus-get-next-line) [![ft_printf](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/d802c7bd-3460-47e7-ac5d-245d4c3161a4)](https://github.com/GiovannaCoqueiro/42cursus-printf) ![born2beroot](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/a7912ea8-c6e2-4bd9-886a-90bb37c32a44) [![so_long](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/4251fab3-3410-46f6-aef6-0602a7be8954)](https://github.com/GiovannaCoqueiro/42cursus-so-long) [![pipex](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/8c8b6525-ca87-4b76-9d39-08b1039b47e4)](https://github.com/GiovannaCoqueiro/42cursus-pipex)
 
 ### Phase 2:
-- [push_swap](https://github.com/GiovannaCoqueiro/42cursus-push-swap)
+![phase_two](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/15aa413f-68d8-4a0c-925a-4db57edd556e)
+
+[![push_swap](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/2c537e66-8606-417d-a778-6a3a2b723815)](https://github.com/GiovannaCoqueiro/42cursus-push-swap)

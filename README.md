@@ -30,7 +30,7 @@ During my free time, I like to create games. This creative outlet allows me to r
 ### Piscine:
 - [Piscine](https://github.com/GiovannaCoqueiro/42-Piscine)
 
-<img src="/static/assets/achievements/phase_onee.png" alt=phase_1_badge>
+![phase_onee](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/16793561-9d37-4c6c-add1-13e7c8373abf)
 ### Phase 1:
 - [libft](https://github.com/GiovannaCoqueiro/42cursus-libft)
 - [get_next_line](https://github.com/GiovannaCoqueiro/42cursus-get-next-line)
@@ -39,6 +39,6 @@ During my free time, I like to create games. This creative outlet allows me to r
 - [so_long](https://github.com/GiovannaCoqueiro/42cursus-so-long)
 - [pipex](https://github.com/GiovannaCoqueiro/42cursus-pipex)
 
-<img width="140" src="/static/assets/achievements/phase_twon.png" alt=phase_2_badge>
+![phase_twon](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/15aa413f-68d8-4a0c-925a-4db57edd556e)
 ### Phase 2:
 - [push_swap](https://github.com/GiovannaCoqueiro/42cursus-push-swap)

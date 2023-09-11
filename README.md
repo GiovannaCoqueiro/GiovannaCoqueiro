@@ -30,6 +30,7 @@ During my free time, I like to create games. This creative outlet allows me to r
 ### Piscine:
 - [Piscine](https://github.com/GiovannaCoqueiro/42-Piscine)
 
+<img src="/static/assets/achievements/phase_onee.png" alt=phase_1_badge>
 ### Phase 1:
 - [libft](https://github.com/GiovannaCoqueiro/42cursus-libft)
 - [get_next_line](https://github.com/GiovannaCoqueiro/42cursus-get-next-line)
@@ -37,4 +38,7 @@ During my free time, I like to create games. This creative outlet allows me to r
 - born2beroot (the goal is to implement a Linux SO in a Virtual Machine, no code)
 - [so_long](https://github.com/GiovannaCoqueiro/42cursus-so-long)
 - [pipex](https://github.com/GiovannaCoqueiro/42cursus-pipex)
+
+<img width="140" src="/static/assets/achievements/phase_twon.png" alt=phase_2_badge>
+### Phase 2:
 - [push_swap](https://github.com/GiovannaCoqueiro/42cursus-push-swap)

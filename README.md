@@ -18,9 +18,7 @@ During my free time, I like to create games. This creative outlet allows me to r
 - 💬 Ask me about anything, I really like talking and discovering new things I've never heard before
 - ⚡ Fun fact: My cat's name, Viper, was chosen because her eyes reminds me of the eyes of a Valorant agent with the same name
 - 📫 How to reach me:
-- [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:giovannacoqueirolopes@gmail.com)
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannacoqueiro/)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giocoqueiro/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:giovannacoqueirolopes@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannacoqueiro/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giocoqueiro/)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giovannacoqueiro&theme=neon)

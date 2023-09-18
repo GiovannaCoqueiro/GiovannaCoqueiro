@@ -28,10 +28,11 @@ During my free time, I like to create games. This creative outlet allows me to r
 
 ## 42cursus Projects
 ### Piscine:
-[![piscina](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/c956ec5a-01ca-4544-8b81-b7112c062990)](https://github.com/GiovannaCoqueiro/42-Piscine)
+<a href="https://github.com/GiovannaCoqueiro/42-Piscine">![piscina badge](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/blob/main/badges/piscina_bagde%20(1).png)</a>
 
 ### Phase 1:
-[![libft](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/9c9efc10-3297-4928-85d9-bccae37b8712)](https://github.com/GiovannaCoqueiro/42cursus-libft) [![get_next_line](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/b0c25ffb-3528-4c3d-ab8a-f38a169773f7)](https://github.com/GiovannaCoqueiro/42cursus-get-next-line) [![ft_printf](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/d802c7bd-3460-47e7-ac5d-245d4c3161a4)](https://github.com/GiovannaCoqueiro/42cursus-printf) ![born2beroot](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/a7912ea8-c6e2-4bd9-886a-90bb37c32a44) [![so_long](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/4251fab3-3410-46f6-aef6-0602a7be8954)](https://github.com/GiovannaCoqueiro/42cursus-so-long) [![pipex](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/8c8b6525-ca87-4b76-9d39-08b1039b47e4)](https://github.com/GiovannaCoqueiro/42cursus-pipex)
+<a href="https://github.com/GiovannaCoqueiro/42cursus-libft">![libft badge](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/blob/main/badges/libftm.png)</a> <a href="https://github.com/GiovannaCoqueiro/42cursus-get-next-line">![gnl badge](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/blob/main/badges/get_next_linem.png)</a> <a href="https://github.com/GiovannaCoqueiro/42cursus-printf">![ftprintf badge](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/blob/main/badges/ft_printfm.png)</a> ![born2beroot badge](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/blob/main/badges/born2berootm.png) <a href="https://github.com/GiovannaCoqueiro/42cursus-so-long">![solong badge](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/blob/main/badges/so_longm.png)</a> <a href="https://github.com/GiovannaCoqueiro/42cursus-pipex">![pipex badge](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/blob/main/badges/pipexm.png)</a> 
 
 ### Phase 2:
-[![push_swap](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/2c537e66-8606-417d-a778-6a3a2b723815)](https://github.com/GiovannaCoqueiro/42cursus-push-swap)
+<a href="https://github.com/GiovannaCoqueiro/42cursus-push-swap">![pipex badge](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/blob/main/badges/push_swapm.png)</a> 
+

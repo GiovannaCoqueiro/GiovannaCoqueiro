@@ -26,6 +26,12 @@ During my free time, I like to create games. This creative outlet allows me to r
 
 ---
 
+
+<a href="https://github.com/GiovannaCoqueiro/42-Piscine" target="_blank">
+  <img src="https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/c956ec5a-01ca-4544-8b81-b7112c062990" alt="piscina badge">
+</a>
+
+
 ## 42cursus Projects
 ### Piscine:
 [![piscina](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/c956ec5a-01ca-4544-8b81-b7112c062990)](https://github.com/GiovannaCoqueiro/42-Piscine)
@@ -35,10 +41,3 @@ During my free time, I like to create games. This creative outlet allows me to r
 
 ### Phase 2:
 [![push_swap](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/2c537e66-8606-417d-a778-6a3a2b723815)](https://github.com/GiovannaCoqueiro/42cursus-push-swap)
-
-
-
-[![libftm](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/439da647-5fc3-4a12-9cdd-3bdf759e9031)](https://github.com/GiovannaCoqueiro/42cursus-libft)
-
-
-

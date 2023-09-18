@@ -38,7 +38,7 @@ During my free time, I like to create games. This creative outlet allows me to r
 
 
 
-![libftm](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/439da647-5fc3-4a12-9cdd-3bdf759e9031)(https://github.com/GiovannaCoqueiro/42cursus-libft)
+[![libftm](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/assets/115947494/439da647-5fc3-4a12-9cdd-3bdf759e9031)](https://github.com/GiovannaCoqueiro/42cursus-libft)
 
 
 

@@ -35,5 +35,5 @@ During my free time, I like to create games. This creative outlet allows me to r
 
 ### Phase 2:
 <a href="https://github.com/GiovannaCoqueiro/42cursus-push-swap">![push_swap badge](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/blob/main/badges/push_swapm.png)</a> <a href="https://github.com/GiovannaCoqueiro/42cursus-minishell">![minishell_badge](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/blob/main/badges/minishellm.png)</a> 
-![netpractice badge](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/blob/main/badges/netpracticee.png)
+![netpractice badge](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/blob/main/badges/netpracticee.png) <a href="https://github.com/GiovannaCoqueiro/42cursus-minirt">![minirt badge](https://github.com/GiovannaCoqueiro/GiovannaCoqueiro/blob/main/badges/minirtm.png)</a>
 
